@@ -1,11 +1,10 @@
-import model
-
+package model
 
 import (
-	"time"
 	"errors"
 	"github.com/asaskevich/govalidator"
 	uuid "github.com/satori/go.uuid"
+	"time"
 )
 
 
